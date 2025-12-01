@@ -1,14 +1,14 @@
 {
   "id": "member4",
-  "name": "최풀스택",
-  "subName": "풀스택 개발자",
+  "name": "조성진",
+  "subName": "잘생긴 개발자",
   "profileImage": "image/profile_image.png",
   "introduction": {
-    "quote": "프론트엔드와 백엔드를\n모두 다루는 개발자입니다.",
-    "detail": "프론트엔드부터 백엔드까지 전체 스택을 이해하고 개발할 수 있습니다. React와 Node.js를 주로 사용하며, 프로젝트의 전체적인 흐름을 파악하여 효율적인 솔루션을 제공합니다."
+    "quote": "프론트엔드와 백엔드를\n모두 다루고 싶은 매우 잘생긴 개발자입니다.",
+    "detail": "프론트엔드부터 백엔드까지 전체 스택을 이해하고 개발할 수 있어으면 좋겠습니다.. React와 Go를 주로 사용하며, 백 전체적인 흐름을 파악하여 효율적인 솔루션을 제공합니다."
   },
   "info": {
-    "description": "React와 Node.js를 활용하여 풀스택 개발을 하고 있습니다.",
+    "description": "React와 Go를 활용하여 풀스택 개발을 하고 있습니다.",
     "birthday": "1996.05.12",
     "location": "서울시 송파구",
     "email": "member4@example.com",
